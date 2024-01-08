@@ -3,7 +3,7 @@ name: React App Deployment
 on:
   push:
     branches:
-      - gh-pages
+      - main
 
 jobs:
   deploy-react-to-gh-pages:
